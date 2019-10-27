@@ -21,7 +21,7 @@
                 <br/>
                 <input type=button value="Take Snapshot" onClick="take_snapshot()">
                 <input type="hidden" name="image" class="image-tag">
-            </div>
+            </div> 
             <div class="col-md-6">
                 <div id="results">Your captured image will appear here...</div>
             </div>
